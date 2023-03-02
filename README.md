@@ -1,6 +1,9 @@
 <h1 align="center">Sup am LodingGlue</h1>
 <h3 align="center">“I don’t care if no one like me, I wasn’t created in this world to entertain everyone.” – Houtarou Oreki</h3>
 
+![App Screenshot](https://cdn.discordapp.com/attachments/1064584898494611628/1080897033629610055/signature_banner__gfx_red_by_ishidafalido_df3xaxl-fullview.jpg)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lodingglue&label=Profile%20views&color=0e75b6&style=flat" alt="lodingglue" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lodingglue" alt="lodingglue" /></a> </p>
@@ -17,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@lodingglue420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@lodingglue420" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Lodingglue420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@lodingglue420" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
