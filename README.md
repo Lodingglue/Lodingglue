@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Rust,java, C++**
 
-- 👨‍💻 All of my projects are available at [https://teamtrollinc.netlify.app](https://teamtrollinc.netlify.app)
+- 👨‍💻 All of my projects are available at [https://discord.gg/rufqpHTxmA](https://discord.gg/rufqpHTxmA)
 
 - 📫 How to reach me **lodingglue258013@gmail.com**
 
