@@ -1,5 +1,5 @@
 <h1 align="center">Sup am LodingGlue</h1>
-<h3 align="center">“I don’t care if no one like me, I wasn’t created in this world to entertain everyone.” – Houtarou Oreki</h3>
+<h3 align="center">"Just give Up and die already .” – small white angry man</h3>
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1064584898494611628/1080897033629610055/signature_banner__gfx_red_by_ishidafalido_df3xaxl-fullview.jpg)
 
