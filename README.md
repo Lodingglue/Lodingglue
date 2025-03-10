@@ -31,7 +31,6 @@
 <li><a target="_blank" href="https://github.com/Lodingglue/LuminaV3/tree/main">Lumina V3 (Windows 10/11)</a></li>
 <li><a target="_blank" href="https://github.com/Lodingglue/Lumina-Installer">Lumina v2 (Android)</a></li>
 <li><a target="_blank" href="https://github.com/Lodingglue/Symphony">Symphony Discord Mod (outdated)</a></li>
-<li><a target="_blank" href="https://eclipsetv.netlify.app">Eclipse Anime Streaming App (Android)</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/Lodingglue" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.facebook.com/Lodingglue" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
