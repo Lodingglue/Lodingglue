@@ -30,13 +30,6 @@
   <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
 </p>
 
-<h2>🛠️ Recent Projects</h2>
-<ul>
-  <li><a href="https://github.com/Lodingglue/Lumina-V3">Lumina V3 (Windows 10/11)</a></li>
-  <li><a href="https://github.com/Lodingglue/Lumina-Installer">Lumina V2 (Android)</a></li>
-  <li><a href="https://github.com/Lodingglue/Symphony">Symphony - Discord Mod (Outdated)</a></li>
-</ul>
-
 <h2>🌐 Find Me Online</h2>
 <p>
   <a href="https://twitter.com/Lodingglue"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
