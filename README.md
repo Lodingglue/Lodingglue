@@ -38,5 +38,5 @@
 <a target="_blank" href="https://www.youtube.com/@LODINGGLUE69" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p><img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Lodingglue?cardType=level&theme=tokyonight&preferLogin=true" alt="Lodingglue" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lodingglue&" alt="Lodingglue" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lodingglue&show_icons=true&locale=en&layout=compact" alt="Lodingglue" /></p>
+![lodingglue's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lodingglue&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lodingglue" alt="Lodingglue" /></a></p>
