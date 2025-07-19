@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Lodingglue</h1>
-<p>A hobbyist Android developer with a passion for exploring both creative and unconventional software ideas.</p>
+<p>A hobbyist Android Developer/Reverser.</p>
 
-<h2>🚀 Languages & Tools</h2>
+<h2>Languages & Tools</h2>
 <p>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42"/></a>
