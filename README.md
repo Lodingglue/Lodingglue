@@ -1,53 +1,109 @@
-<h1>👋 Hi, I'm Lodingglue</h1>
-<p>A hobbyist Android Developer/Reverser.</p>
 
-<h2>Languages & Tools</h2>
+
+# <h1 align="center"><code><img src="https://avatars.githubusercontent.com/u/97082465?v=4" height="110px"> Hi, I'm Lodingglue | [<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312jspfe2hgtmcapy6it3lmhteym&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false" background="#fff" height="110px">](https://open.spotify.com/user/312jspfe2hgtmcapy6it3lmhteym)</code></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9E4C98&center=true&vCenter=true&width=435&lines=Android+Developer;Mobile+App+Reverser;Code+Enthusiast;Always+Learning" alt="Typing SVG" />
+</p>
+
+#### A hobbyist Android Developer and Reverser
+> Building mobile apps and reverse engineering
+
+
+[![1629303784-skrinshot-18-08-2021-21-21-50.webp](https://i.postimg.cc/T2DxZZ06/1629303784-skrinshot-18-08-2021-21-21-50.webp)](https://postimg.cc/G9d6Dg67)
+
+---
+
+## Tech Stack
+
+### Mobile Development
 <p>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="42" height="42"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="42" height="42"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="42" height="42"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="42" height="42"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="42" height="42"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,flutter,dart,xml" />
 </p>
 
-<h2>🌐 Find Me Online</h2>
+### Programming Languages
 <p>
-  <a href="https://twitter.com/Lodingglue"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.facebook.com/Lodingglue"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/Lodingglue"><img src="https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@LODINGGLUE69"><img src="https://img.shields.io/badge/YouTube-cc0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,kotlin,go,python,js,ts,c" />
 </p>
 
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Lodingglue?cardType=level&theme=tokyonight&preferLogin=true" alt="GitHub Stats"/>
+### Web Stuff
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,firebase" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lodingglue&theme=tokyonight" alt="GitHub Streak"/>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,oracle,bash,git,linux,figma,ps,heroku" />
 </p>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2)](https://twitter.com/Lodingglue)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Lodingglue)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Lodingglue)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LODINGGLUE69)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/Lodingglue?cardType=level&theme=tokyonight&preferLogin=true&Background=DD272700&ring=9E4C98&fire=9E4C98&currStreakLabel=9E4C98" alt="GitHub Stats"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lodingglue&theme=dracula&border_radius=6)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodingglue&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=DD272700&title_color=9E4C98&text_color=9E4C98" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lodingglue&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+[![Lilica](https://github-readme-stats.vercel.app/api/pin/?username=Lodingglue&repo=Lilica&theme=tokyonight&bg_color=DD272700&title_color=9E4C98&text_color=9E4C98&icon_color=9E4C98&hide_border=true)](https://github.com/Lodingglue/Lilica)
+
+[![LuminaClient](https://github-readme-stats.vercel.app/api/pin/?username=TheProjectLumina&repo=LuminaClient&theme=tokyonight&bg_color=DD272700&title_color=9E4C98&text_color=9E4C98&icon_color=9E4C98&hide_border=true)](https://github.com/TheProjectLumina/LuminaClient)
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lodingglue&bg_color=DD272700&color=9E4C98&line=9E4C98&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lodingglue&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=lodingglue&label=Profile%20views&color=9E4C98&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/lodingglue?label=Followers&style=flat&color=9E4C98" alt="Followers" />
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lodingglue&theme=darkhub" alt="Trophies"/></a>
-</p>
+
+**Over & Out**
+
+</div>
