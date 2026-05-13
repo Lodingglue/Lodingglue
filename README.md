@@ -7,7 +7,6 @@
 </p>
 
 <div align="center">
-<h1>A hobbyist Android Developer and Reverser </h1> 
   <span>Biggest feat: reading a manhwa with 48h read time in 18h</span>
 </div>
 
